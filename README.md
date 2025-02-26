@@ -16,11 +16,11 @@ To run this project, install the required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## Usage
+Usage
 Clone the repository:
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
 Open Fraud Detection.ipynb in Jupyter Notebook.
 Run all cells to see results.
 
-📊# Results
+📊Results
 The model's accuracy and other metrics are included in the notebook.
